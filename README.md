@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Josué Romero</h1>
-<h3 align="center">En proceso de aprendizaje Java & HTML, CSS, JavaScript; apasionado por el desarrollo de software, me defino un aficionado empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, React, Node.js, Linux, XML, JSON, Docker, JQuery, MySQL, entre otras...</h3>
+<h3 align="center">En proceso de aprendizaje con Java HTML, CSS, JavaScript; apasionado por el desarrollo de software, me defino un aficionado empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, React, Node.js, Linux, XML, JSON, Docker, JQuery, MySQL, entre otras...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josueromeroj&label=Profile%20views&color=0e75b6&style=flat" alt="josueromeroj" /> </p>
 
