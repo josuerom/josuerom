@@ -2,6 +2,7 @@
 <h3 align="center">En proceso de aprendizaje Java & HTML, CSS & JavaScript, apasionado por el desarrollo de software, me defino un aficionado que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, React, Node.js, JQuery, MySQL, entre otros...</h3>
 ㅤ
 ㅤ
+ㅤ
 - 🔭 I’m currently working on **Renderizado de memoria**
 
 - 🌱 I’m currently learning **HTML, CSS y Neovim**
