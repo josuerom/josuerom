@@ -1,8 +1,6 @@
-<h1 align="center">Hola 👋, soy Josué Romero👨‍</h1>
-<h3 align="center">En proceso de aprendizaje Java & HTML, CSS & JavaScript, apasionado por el desarrollo de software, me defino un aficionado que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, React, Node.js, JQuery, MySQL, entre otros...</h3>
-ㅤ
-ㅤ
-ㅤ
+<h1 align="center">Hola 👋, soy Josué Romero</h1>
+<h3 align="center">En proceso de aprendizaje Java & HTML, CSS, JavaScript; soy un apasionado por el desarrollo de software, me defino un aficionado empedernido que continua aprendiendo autodidácticamente las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, React, Node.js, JQuery, MySQL, entre otras...</h3>
+
 - 🔭 I’m currently working on **Renderizado de memoria**
 
 - 🌱 I’m currently learning **HTML, CSS y Neovim**
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **josueromram@outlook.es**
 
-- 📄 Know about my experiences [Cuento con 1 años de experiencia en desarrollo de sistemas Java, Spring Boot, Spring Framework y (JEE, JPA, EJB & JSF).](Cuento con 1 años de experiencia en desarrollo de sistemas Java, Spring Boot, Spring Framework y (JEE, JPA, EJB & JSF).)
+- 📄 Know about my experiences [Cuento con 1 año de experiencia en desarrollo de sistemas, Spring Boot, Spring Framework y (JEE, JPA, EJB & JSF).](Cuento con 1 año de experiencia en desarrollo de sistemas Java, Spring Boot, Spring Framework y (JEE, JPA, EJB & JSF).)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
