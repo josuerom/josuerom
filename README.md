@@ -3,16 +3,16 @@
    <h3 align="center">¡Hey 👋! Soy Josué 👨🏻‍💻</h3>
 </p>
 
-<p align="center">En proceso de aprendizaje con Java, HTML, CSS, JavaScript; <strong>apasionado por el desarrollo de software,</strong> me defino un programador aficionado y empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, React, Node.js, XML, JSON, PostgreSQL, MySQL, Docker, JQuery, entre otras...<br />¡Echa un vistazo 👇!</p>
+<p align="center">En proceso de aprendizaje con Java, HTML, CSS, JavaScript; <strong>apasionado por el desarrollo de software,</strong> me defino un programador aficionado y empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, Python, React, Node.js, Git, XML, JSON, PostgreSQL, MySQL, Docker, JQuery, entre otras...<br />¡Echa un vistazo 👇!</p>
 <p align="center">
-   <a href="https://youtube.com/c/vallenatosjr2" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://youtube.com/c/vallenatosjr2" target="blank" style='margin-right:6px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="29px" width="29px" />
   </a>
   <a href="https://instagram.com/josueromerojr2" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="29px" width="29px" />
   </a>
   <a href="https://twitter.com/Josueromram" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="29px" width="29px" />
   </a>
 </p>
 
@@ -50,5 +50,3 @@
 
 #### Consejo:
 No programes para dar soluciones, programa para crear soluciones.
-#### Autor: Josué Romero.
-
