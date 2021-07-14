@@ -35,5 +35,5 @@
 
 #### Consejo:
 No programes para dar soluciones, programa para crear soluciones.
-Autor: Josué Romero.
+#### Autor: Josué Romero.
 
