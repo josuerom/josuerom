@@ -33,7 +33,7 @@
 ### GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueRomeroJ)]
 
-####Consejo:
+#### Consejo:
 No programes para dar soluciones, programa para crear soluciones.
 Autor: Josué Romero.
 
