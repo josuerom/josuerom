@@ -1,6 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://pbs.twimg.com/media/E6SyPduWEAMsTX6?format=jpg&name=small" />
-   <h3 align="center">¡Hey 👋! Soy Josué 👨🏻‍💻</h3>
+   <img align="center" width="200" src="https://github.com/josueromram/josueromram/blob/ProjectsApacheNetbeans12.4/Perfil%20Circular.png" />
+   <h3 align="center">¡Que tal👋! Soy Josué👨🏻‍💻</h3>
 </p>
 
 <p align="center">En proceso de aprendizaje con Java, HTML, CSS, JavaScript; <strong>apasionado por el desarrollo de software,</strong> me defino un programador aficionado y empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo es Kotlin, Python, React, Node.js, Git, XML, JSON, PostgreSQL, MySQL, Docker, JQuery, entre otras...<br />¡Echa un vistazo 👇!</p>
