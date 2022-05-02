@@ -1,6 +1,6 @@
 <p align="center" width="270">
-   <img align="center" width="270" src="https://github.com/josueromram/josuerom/blob/ProjectsApacheNetbeans12.4/Perfil%20Circular.png" />
-   <h3 align="center">¡Hola que tal👋! Soy Josué👨🏻‍💻</h3>
+   <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/ProjectsApacheNetbeans12.4/Perfil%20Circular.png" />
+   <h3 align="center">¡Hola que tal👋! Soy Josué👨</h3>
 </p>
 
 <p align="center">Futuro ingeniero de sistemas con conocimiento en Java, HTML, CSS, JavaScript; <strong>apasionado por el desarrollo de software,</strong> me defino un programador aficionado y empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo son Kotlin, Python, React, Node.js, Git, XML, JSON, MySQL, Docker, JQuery, entre otras tecnologías...<br />¡Echa un vistazo por acá 👇!</p>
@@ -26,7 +26,7 @@
 
 - 🤝 I’m looking for help with **PHP, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JosueRomeroJ](https://github.com/josuerom)
+- 👨‍💻 All of my projects are available at [https://github.com/josuerom](https://github.com/josuerom?tab=repositories)
 
 - 💬 Ask me about **Java, Python, Neovim**
 
