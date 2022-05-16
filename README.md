@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola que tal👋! Soy Josué👨</h3>
 </p>
 
-<p align="center">Manejo Java, HTML, CSS, JavaScript; <strong>apasionado por el desarrollo de software,</strong> me defino un programador aficionado y empedernido que continua aprendiendo autodidácticamente de las tecnologías más demandadas en el mercado hoy en día como lo son Kotlin, Python, React, Node.js, Git, XML, JSON, MySQL, Docker, JQuery, entre otras tecnologías...<br />¡Echa un vistazo por acá 👇!</p>
+<p align="center">I handle Java, HTML, CSS, JavaScript; <strong>passionate about software development,</strong> I define myself as an amateur and inveterate programmer who continues to learn self-taught from the most demanded technologies on the market today such as Kotlin, Python, React, Node.js, Git , XML, JSON, MySQL, Docker, JQuery, among other technologies...<br />¡Take a look over here 👇!</p>
 <p align="center">
    <a href="https://www.youtube.com/channel/UC9UgUOOlVRagu3Gj9_upQFg" target="blank" style='margin-right:6px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="29px" width="29px" />
@@ -30,9 +30,9 @@
 
 - 💬 Ask me about **Java, Python, Neovim**
 
-- 📫 How to reach me **josueromram@outlook.es**
+- 📫 Reach me through the mail **josueromram@outlook.es**
 
-- 📄 Know about my experiences [Cuento con 1 años de experiencia en desarrollo de sistemas Java, Spring Boot, Spring Framework y (JEE, JPA, EJB & JSF).](Cuento con 1 años de experiencia en desarrollo de sistemas Java con Spring Boot 1.0 & 2.0, (JEE, JPA, EJB, JUNIT & JSF).)
+- 📄 Know about my experiences [I have more than 1 year of experience in Java systems development, Spring Boot, Spring Framework and (JEE, JPA, EJB & JSF)].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,4 +49,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerom)]
 
 #### Consejo:
-No programes para dar soluciones, programa para crear soluciones.
+Do not program to provide solutions, program to create solutions.
