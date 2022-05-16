@@ -48,5 +48,5 @@
 ### GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerom)]
 
-#### Consejo:
+#### My phrase:
 Do not program to provide solutions, program to create solutions.
