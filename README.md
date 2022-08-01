@@ -1,5 +1,5 @@
 <p align="center" width="270">
-   <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/ProjectsApacheNetbeans12.4/Perfil%20Circular.png" />
+   <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/master/Perfil%20Circular.png" />
    <h3 align="center">¡Hola que tal👋! Soy Josué👨</h3>
 </p>
 
