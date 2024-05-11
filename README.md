@@ -1,9 +1,9 @@
 <p align="center" width="270">
    <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/master/Perfil%20Circular.png" />
-   <h3 align="center">¡Hola que tal👋! Soy Josué👨</h3>
+   <h3 align="center">¡How’s it going?👋 I'm Josué👨</h3>
 </p>
 
-<p align="center">I handle Java, HTML, CSS, JavaScript; <strong>passionate about software development,</strong> I define myself as an amateur and inveterate programmer who continues to learn self-taught from the most demanded technologies on the market today such as Kotlin, Python, React, Node.js, Git , XML, JSON, MySQL, Docker, JQuery, among other technologies...<br />¡Take a look over here 👇!</p>
+<p align="center">I love developing standard input/output solutions using C++, Java and Python. Passionate about software development and competitive programming, I consider myself an inveterate programmer, self-taught in the most in-demand technologies on the market. currently such as Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, NeoVim, among a few other recent technologies...<br />Take a look here 👇!</p>
 <p align="center">
    <a href="https://www.youtube.com/channel/UC9UgUOOlVRagu3Gj9_upQFg" target="blank" style='margin-right:6px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="29px" width="29px" />
@@ -18,21 +18,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josueromeroj&label=Profile%20views&color=0e75b6&style=flat" alt="josuerom" /> </p>
 
-- 🔭 I’m currently working on **Renderizado de memoria**
+- 🔭 I am currently working on **Program Time and Memory Rendering**
 
-- 🌱 I’m currently learning **HTML, CSS y Neovim**
+- 🌱 I am currently learning **Python3, JavaScript**
 
-- 👯 I’m looking to collaborate on **Proyectos en Java**
+- 👯 I am looking to collaborate on projects related to **Java or Python**
 
-- 🤝 I’m looking for help with **PHP, MySQL**
+- 🤝 I'm looking for a collaboration with **Automations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/josuerom](https://github.com/josuerom?tab=repositories)
+- 👨‍💻 All my projects are available [HERE!](https://github.com/josuerom?tab=repositories)
 
-- 💬 Ask me about **Java, Python, Neovim**
+- 💬 Ask me about **Algorithms and Data Structures**
 
-- 📫 Reach me through the mail **josueromram@outlook.es**
+- 📫 Contact me via email **josueromram@outlook.es**
 
-- 📄 Know about my experiences [I have more than 1 year of experience in Java systems development, Spring Boot, Spring Framework and (JEE, JPA, EJB & JSF)].
+- 📄 I currently have 2 years of experience in solving competitive problems, exactly at codeforces.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
