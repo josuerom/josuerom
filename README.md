@@ -1,6 +1,6 @@
 <p align="center" width="270">
-   <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/master/Perfil%20Circular.png" />
-   <h3 align="center">¡How’s it going?👋 I'm Josué👨</h3>
+   <!-- <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/master/Perfil%20Circular.png" /> -->
+   <h3 align="center">¡How’s it going? I'm Josué👨</h3>
 </p>
 
 <p align="center">I love developing standard input/output solutions using C++, Java and Python. Passionate about software development and competitive programming, I consider myself an inveterate programmer, self-taught in the most in-demand technologies on the market. currently such as Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, NeoVim, among a few other recent technologies...<br />Take a look here 👇!</p>
@@ -54,6 +54,7 @@
    <a href="https://www.microsoft.com/es-co/sql-server/sql-server-downloads" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/> </a>
    <a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/> </a>
    <a href="https://neovim.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/> </a>
+   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
 ### GitHub status:
