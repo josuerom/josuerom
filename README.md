@@ -3,7 +3,8 @@
    <h3 align="center">¡How’s it going? I'm Josué👨</h3>
 </p>
 
-<p align="center">I love developing standard input/output solutions using C++, Java and Python. Passionate about software development and competitive programming, I consider myself an inveterate programmer, self-taught in the most in-demand technologies on the market. currently such as Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, NeoVim, among a few other recent technologies...<br />
+<p align="center">I love developing standard input and standard output solutions using only C++, Java and Python languages. Passionate about Backend software development and competitive programming, I consider myself an inveterate and self-taught programmer. I know the most demanded technologies in the current industry such as: Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, VSCode, NetBeans, among a few other recent technologies...
+<br />
    <br />
    Take a look here 👇!
    <br />
