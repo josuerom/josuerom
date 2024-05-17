@@ -3,8 +3,10 @@
    <h3 align="center">¡How’s it going? I'm Josué👨</h3>
 </p>
 
-<p align="center">I love developing standard input/output solutions using C++, Java and Python. Passionate about software development and competitive programming, I consider myself an inveterate programmer, self-taught in the most in-demand technologies on the market. currently such as Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, NeoVim, among a few other recent technologies...<br />Take a look here 👇!</p>
-<p align="center">
+<p align="center">I love developing standard input/output solutions using C++, Java and Python. Passionate about software development and competitive programming, I consider myself an inveterate programmer, self-taught in the most in-demand technologies on the market. currently such as Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, NeoVim, among a few other recent technologies...<br />
+   <br />
+   Take a look here 👇!
+   <br />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josueromeroj&label=Profile%20views&color=0e75b6&style=flat" alt="josuerom" /> </p>
