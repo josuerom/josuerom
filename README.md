@@ -5,14 +5,8 @@
 
 <p align="center">I love developing standard input/output solutions using C++, Java and Python. Passionate about software development and competitive programming, I consider myself an inveterate programmer, self-taught in the most in-demand technologies on the market. currently such as Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, NeoVim, among a few other recent technologies...<br />Take a look here 👇!</p>
 <p align="center">
-   <a href="https://www.youtube.com/channel/UC9UgUOOlVRagu3Gj9_upQFg" target="blank" style='margin-right:6px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="29px" width="29px" />
-  </a>
-  <a href="https://instagram.com/josueromerojr2" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="29px" width="29px" />
-  </a>
   <a href="https://twitter.com/josueromr" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="29px" width="29px" />
+    <img align="center" src="https://img.freepik.com/vector-gratis/twitter-nuevo-logotipo-2023-x-vector-fondo-blanco_1017-45422.jpg?w=826&t=st=1715906747~exp=1715907347~hmac=81d69204ad7af03a84421de2612b83d23553c92845c84e34a2c8a3af93fc2b07" alt="josuerom" height="29px" width="29px" />
   </a>
 </p>
 
