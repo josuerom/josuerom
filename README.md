@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Algorithms and Data Structures**
 
-- 📄I currently have 2 years of experience in solving competitive programming problems on the [codeforces](https://codeforces.com/profile/josuerom) platform, so far I have mastered only the 800, 900 and 1000 complexities.
+- 📄I currently have 19 months of experience solving competitive programming problems on the [codeforces](https://codeforces.com/profile/josuerom) platform, so far I only master complexities 800, 900 and 1000.
 
 - 📫 Contact me via email **josueromram@outlook.es**
 
