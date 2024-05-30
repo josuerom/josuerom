@@ -26,11 +26,9 @@
 
 - 📄I currently have 19 months of experience solving competitive programming problems on the [codeforces](https://codeforces.com/profile/josuerom) platform, so far I only master complexities 800, 900 and 1000.
 
-- 📫 Contact me via email **josueromram@outlook.es**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/josueromr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josueromr" height="30" width="40" /></a>
+<a href="https://twitter.com/josueromr" target="blank"><img align="center" src="https://i0.wp.com/www.rafaelmourad.com/wp-content/uploads/2023/07/image-10.png?w=500&ssl=1" alt="josueromr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/josueromram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josuerom" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
