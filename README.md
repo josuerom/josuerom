@@ -10,7 +10,7 @@
    <br />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josueromeroj&label=Profile%20views&color=0e75b6&style=flat" alt="josuerom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josuerom&label=Profile%20views&color=0e75b6&style=flat" alt="josuerom" /> </p>
 
 - 🔭 I am currently working on **Program Time and Memory Rendering**
 
