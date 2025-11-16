@@ -1,53 +1,33 @@
-<p align="center" width="270">
-   <!-- <img align="center" width="270" src="https://github.com/josuerom/josuerom/blob/master/Perfil%20Circular.png" /> -->
-   <h3 align="center">¡How’s it going? I'm Josué👨</h3>
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+<p align= "center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
+</p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
+
+<hr/>
+
+## 🚩 From conception to coding, design, and implementation of high-performance applications that deliver tangible results 💙.
+## 😉 My passion is creating standard input/output programs, efficient, scalable, and user-centric software that transforms the digital landscape ⭐.
+## ☁️ Without God, I am nothing; He is the giver of life 🧬.
+
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Competitive programmer
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Desktop software developer
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> I like C++, Java, and Python
+
+<hr />
+
+<p align="center">
+  <h3>Main Skills</h3>    
+    <img src="https://skillicons.dev/icons?i=go,python,js,php,java,c,r,django,nodejs,react,next,angular,vue,nuxt,spring,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn,git,github,gitlab,grafana,prometheus,rabbitmq,pytorch,kafka,ai,graphql,flask,fastapi,opencv,regex,tensorflow,sklearn" /><br/>    
 </p>
 
-<p align="center">I love developing standard input and standard output solutions using only C++, Java and Python languages. Passionate about Backend software development and competitive programming, I consider myself an inveterate and self-taught programmer. I know the most demanded technologies in the current industry such as: Java, Python, Git, Github, Docker, HTML, JSON, MySQL, Linux, JUnit, VSCode, NetBeans, among a few other recent technologies...
-<br />
-   <br />
-   Take a look here 👇!
-   <br />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josuerom&label=Profile%20views&color=0e75b6&style=flat" alt="josuerom" /> </p>
-
-- 🔭 I am currently working on **Program Time and Memory Rendering**
-
-- 🌱 I am currently learning **Python3, JavaScript**
-
-- 👯 I am looking to collaborate on projects related to **Java or Python**
-
-- 🤝 I'm looking for a collaboration with **Automations**
-
-- 👨‍💻 All my projects are available [HERE!](https://github.com/josuerom?tab=repositories)
-
-- 💬 Ask me about **Algorithms and Data Structures**
-
-- 📄I currently have 19 months of experience solving competitive programming problems on the [codeforces](https://codeforces.com/profile/josuerom) platform, so far I only master complexities 800, 900 and 1000.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/josueromr" target="blank"><img align="center" src="https://i0.wp.com/www.rafaelmourad.com/wp-content/uploads/2023/07/image-10.png?w=500&ssl=1" alt="josueromr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/josueromram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josuerom" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.oracle.com/co/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python3" width="40" height="40"/> </a>
-   <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
-   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://www.microsoft.com/es-co/sql-server/sql-server-downloads" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/> </a>
-   <a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/> </a>
-   <a href="https://neovim.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/> </a>
-   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
-
-### GitHub status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerom&show_icons=true&theme=radical)
+<hr /> 
+<!-- ## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aladinxyz" alt="aladinxyz" /></a> </p>  
+   -->
+## My Github Stats
+<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
+<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerom&show_icons=true&locale=en&layout=compact"  alt="aladinxyz" />
+<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=josuerom&show_icons=true&locale=en"  alt="aladinxyz" />
+</div>
